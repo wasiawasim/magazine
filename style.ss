@@ -1,0 +1,9 @@
+h1{
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+}
+#first{
+    color:brown
+}
